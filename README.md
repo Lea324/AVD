@@ -4,3 +4,7 @@ AERO60002 - Aerospace Vehicle Design. Year 3 group project.
 Easy Access Rules for Air Operations (EASA, current): https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-air-operations
 
 EASA Annex to ED Decision 2014/015/R, Part-CAT (PDF): https://www.easa.europa.eu/sites/default/files/dfu/Annex%20to%20ED%20Decision%202014-015-R%20-%20Part-CAT_0.pdf
+# Cabin and fuselage sizing
+Roskam, Airplane Design Part 3, 2002
+
+Torenbeek, Synthesis of Subsonic Airplane Design, 1982
