@@ -8,3 +8,6 @@ EASA Annex to ED Decision 2014/015/R, Part-CAT (PDF): https://www.easa.europa.eu
 Roskam, Airplane Design Part 3, 2002
 
 Torenbeek, Synthesis of Subsonic Airplane Design, 1982
+
+# Wetted Area Analysis in Airplane Design
+https://www.scribd.com/document/897371895/Wetted-and-Projected-Area-Relationships-in-Commercial-Airplane-Design
