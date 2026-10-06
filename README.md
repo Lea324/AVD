@@ -11,3 +11,5 @@ Torenbeek, Synthesis of Subsonic Airplane Design, 1982
 
 # Wetted Area Analysis in Airplane Design
 https://www.scribd.com/document/897371895/Wetted-and-Projected-Area-Relationships-in-Commercial-Airplane-Design
+
+### Install Aerospace toolbox for wing desgin!!!
