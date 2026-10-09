@@ -13,3 +13,7 @@ Torenbeek, Synthesis of Subsonic Airplane Design, 1982
 https://www.scribd.com/document/897371895/Wetted-and-Projected-Area-Relationships-in-Commercial-Airplane-Design
 
 ### Install Aerospace toolbox for wing desgin!!!
+
+ish a boeing-787 for now:
+D_{outer} =5.8m; L_total = 52m
+https://www.lot.com/gb/en/explore/about-lot/fleet/boeing-787-8-dreamliner
